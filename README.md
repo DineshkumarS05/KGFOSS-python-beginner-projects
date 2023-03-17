@@ -771,13 +771,3 @@
   </tr>
 </table>
 
-
-## Run these projects online :
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Mrinank-Bhowmick/python-beginner-projects.git)
-
-<h1> Contributors </h1>
-
-<!-- readme: contributors -start -->
-
-<!-- readme: contributors -end -->
